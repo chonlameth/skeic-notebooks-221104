@@ -3,6 +3,6 @@ def marginal_tax_rate(income):
         return 0.0
     elif income < 20000:
         return 5.0
-    else
+    else:
         return 7.0
         
